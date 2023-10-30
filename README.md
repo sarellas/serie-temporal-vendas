@@ -1,6 +1,5 @@
 # Modelização de séries temporais de vendas
 
-Estudo de análise de séries temporais em R com base de dados de vendas de produtos disponível do repositório Kaggle.
 
 ## Objetivo
 
