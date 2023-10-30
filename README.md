@@ -8,9 +8,10 @@ Fazer uso de estratégias de modelização de séries temporais para exercícios
 
 ## Dados
 
-- <a href=“[http://exemplo.com/](https://www.kaggle.com/datasets/soumyadiptadas/products-sales-timeseries-data)https://www.kaggle.com/datasets/soumyadiptadas/products-sales-timeseries-data“>Kaggle</a>
+- [Kaggle](https://www.kaggle.com/datasets/soumyadiptadas/products-sales-timeseries-data)
 
-## Etapas
+
+## Modelos utilizados
 
 ## Resultados 
 
